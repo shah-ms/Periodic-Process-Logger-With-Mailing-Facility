@@ -4,5 +4,7 @@ This project helps in automating process log activity using Python libraries. A 
 To run this automation script, it needs 3 command-line arguments.
 
 1st - the Directory Name which will be created (if does not exists) which will contain the log files
+
 2nd - email id of the receiver
+
 3rd - number of minutes after which you want the log file to be created and sent via mail
